@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e782a0a4-5afc-4c18-a0ec-7441edd1cfcb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/consumer/Rabbit-Mq-Consumer/src/main/java/com/stackroute/config/RabbitMqConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/Rabbit-Mq-Consumer/src/main/java/com/stackroute/config/RabbitMqConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/config/RabbitMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/config/RabbitMQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/controller/ProducerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/controller/ProducerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/service/ProducerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/rabbitMQ/src/main/java/com/stackroute/service/ProducerService.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/producer/rabbitMQ" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1Pgfjmo8rbyxHmq0JrcwE49NjWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e782a0a4-5afc-4c18-a0ec-7441edd1cfcb" name="Default Changelist" comment="" />
+      <created>1566300797141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566300797141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
